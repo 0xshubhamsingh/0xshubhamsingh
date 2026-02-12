@@ -2,7 +2,7 @@
 
 # `shubham.`
 
-**BTech IT '28 | Aspiring DevOps Engineer**  
+**BTech IT '28 | Future DevOps Engineer**  
 DevOps • Cloud Engineering • Intelligent Systems
 
 ---
