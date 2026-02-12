@@ -1,5 +1,7 @@
 <div align="center">
 
+![hello_world](https://github.com/user-attachments/assets/1932ad0e-da28-4d13-b796-b91ec84e72d0)
+
 # `shubham.`
 
 **BTech IT '28 | Future DevOps Engineer**  
