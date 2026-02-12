@@ -13,6 +13,6 @@ I’m currently building my foundation in DevOps and Cloud Engineering while exp
 Focused on long-term engineering depth over short-term trends.
 
 I document my learning journey here:  
-🔗 https://0xshubhamsingh.hashnode.com
+🔗 https://0xshubhamsingh.hashnode.dev
 
 </div>
