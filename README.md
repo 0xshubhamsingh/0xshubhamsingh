@@ -2,12 +2,17 @@
 
 # `shubham.`
 
-**IT Student (Class of 2028)**  
-Machine Learning • Data Science • Artificial Intelligence
+**BTech IT (Class of 2028)**  
+DevOps • Cloud Engineering • Intelligent Systems
 
 ---
 
 ### About  
-Focused on building intelligent systems, practical ML models, and AI-driven applications.
+I’m currently building my foundation in DevOps and Cloud Engineering while exploring intelligent systems and applied AI.
+
+Focused on long-term engineering depth over short-term trends.
+
+I document my learning journey here:  
+🔗 https://0xshubhamsingh.hashnode.com
 
 </div>
