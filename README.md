@@ -4,8 +4,8 @@
 
 # `shubham.`
 
-**BTech IT '28**  
-DevOps • Cloud Engineering • Intelligent Systems
+**IT '28**  
+DevOps • Cloud Engineering • Full-Stack
 
 ---
 
