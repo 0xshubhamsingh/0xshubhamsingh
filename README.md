@@ -5,7 +5,7 @@
 # `shubham.`
 
 **IT '28**  
-DevOps • Cloud Engineering • Full-Stack
+Full-Stack • Cloud Engineering • DevOps
 
 ---
 
