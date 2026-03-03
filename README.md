@@ -4,7 +4,7 @@
 
 # `shubham.`
 
-**BTech IT Student '28**  
+**BTech IT '28**  
 DevOps • Cloud Engineering • Intelligent Systems
 
 ---
