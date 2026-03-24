@@ -3,7 +3,7 @@
 # `shubham.`
 
 **BTech IT '28**  
-Developer • GIS • Quant
+Developer • GIS/Remote Sensing • Alt-Quant
 
 ---
 
