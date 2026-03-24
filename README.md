@@ -1,17 +1,14 @@
 <div align="center">
 
-![Banner](banner3.jpg)
-
 # `shubham.`
 
-**IT '28**  
-Full-Stack • Cloud Engineering • DevOps
+**BTech IT '28**  
+Developer • GIS • Quant
 
 ---
 
-### About  
-I’m currently building my foundation in DevOps and Cloud Engineering while exploring intelligent systems and applied AI.
+### About Me
 
-Focused on long-term engineering depth over short-term trends.
+Focused on long-term depth & learning over short-term trends.
 
 </div>
