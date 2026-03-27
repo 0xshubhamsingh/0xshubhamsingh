@@ -3,11 +3,11 @@
 # `shubham.`
 
 **BTech IT '28**  
-Developer • GIS/Remote Sensing • Alt-Quant
+Engineer • GIS • Quant Finance
 
 ---
 
-### about
+### About
 
 Focused on long-term depth & learning over short-term trends.
 
