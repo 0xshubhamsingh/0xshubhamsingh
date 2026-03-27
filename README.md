@@ -9,6 +9,6 @@ Engineer • GIS • Quant Finance
 
 ### About
 
-Focused on long-term depth & learning over short-term trends.
+Long-term depth & learning over short-term trends.
 
 </div>
