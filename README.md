@@ -3,7 +3,7 @@
 # `shubham.`
 
 **BTech IT '28**  
-Full-Stack/GIS Dev • Machine Learning • Quant Finance
+Full-Stack / GIS • Machine Learning • Quant Finance
 
 ---
 
