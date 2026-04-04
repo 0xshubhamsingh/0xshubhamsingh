@@ -3,7 +3,7 @@
 # `shubham.`
 
 **BTech IT '28**  
-Full-Stack / GIS • Machine Learning • Alt-Quant
+Full-Stack • Geoinformatics • ML
 
 ---
 
