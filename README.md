@@ -3,12 +3,12 @@
 # `shubham.`
 
 **BTech IT '28**  
-Full-Stack • Geoinformatics • ML
+Full-Stack / GIS • ML • Quant
 
 ---
 
 ### About
 
-Long-term depth & progress over short-term trends.
+progress, not perfection.
 
 </div>
