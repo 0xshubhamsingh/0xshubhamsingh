@@ -6,9 +6,4 @@
 Full-Stack / GIS • ML • Quant
 
 ---
-
-### About
-
-progress, not perfection.
-
 </div>
