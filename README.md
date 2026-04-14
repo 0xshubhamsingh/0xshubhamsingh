@@ -3,7 +3,7 @@
 # `shubham.`
 
 **BTech IT '28**  
-Full-Stack / GIS • ML • Quant
+Full-Stack • GIS • ML
 
 ---
 </div>
